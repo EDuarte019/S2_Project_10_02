@@ -4,8 +4,8 @@
    Case Problem 2
 
    Big Apple Physics Animation Styles
-   Author: 
-   Date:   
+   Author: Evelyn Duarte
+   Date:1/30/19
 
    Filename: ba_animate.css
 
@@ -13,8 +13,11 @@
 
 
 /* Transition Styles */
-
+nav {
+    background: url(ba_target.png) no-repeat;
+    background-position: center;
+    background-size: 0%;
+}
 
 
 /* Animation Styles */
-
